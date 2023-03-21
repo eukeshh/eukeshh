@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <img height="50" alt="My Name is Kesh and I like Python" src="images/personal_note.svg" />
   <br />
   <br />
 
@@ -13,7 +13,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="">
 <strong>Visit my personal website </strong>
 <br />
 <br />
@@ -29,7 +29,7 @@
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://www.youtube.com/watch?v=QPPFM8NyuaQ&t=6224s">
 <strong>Listen to cool music</strong>
 <br />
 <br />
@@ -47,7 +47,7 @@
 <div align="center">
 <a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
-
+```
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
@@ -57,7 +57,7 @@
 | <a href="https://github.com/rainnfx"><img width="24" src="https://avatars.githubusercontent.com/u/74088595?s=24&u=740b5b07c8d25bf39df0a7f574acf54fdea4685e&v=4" alt="rainnfx" /> rainnfx</a> |2/23/2023, 12:27:48 AM|love this!!|
 | <a href="https://github.com/CloakSelf"><img width="24" src="https://avatars.githubusercontent.com/u/81986909?s=24&u=28421664fa31eacf79589903167e5d6c7b0266e2&v=4" alt="CloakSelf" /> CloakSelf</a> |2/22/2023, 7:47:45 AM|hey hit me up on aol im if u got a chance! tell u on irc #lolz|
 <!-- /Guestbook -->
-
+```
 <!-- Footer -->
 
 <div align="center">
@@ -65,7 +65,7 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/eukeshh/count.svg)
 
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
